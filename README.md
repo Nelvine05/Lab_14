@@ -1,0 +1,1 @@
+markdown<br># Labo GitIgnore – Virginie_Mélanie_Cathy_Ndiaye<br><br>Petit projet démontrant la création d’un dépôt GitHub, l’ajout d’un `.gitignore`, et l’utilisation des Issues pour la documentation.
